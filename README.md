@@ -1,5 +1,5 @@
 # Calculatrice
- Calculatrice réalisé en python avec tkinter
+*Calculatrice réalisé en python avec tkinter*
 
 calculatrice_simple.py : Calculatrice simple
 
